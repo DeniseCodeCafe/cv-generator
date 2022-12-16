@@ -1,5 +1,5 @@
 ---
-title: Denise Mocking
+title: "Denise Mocking"
 footer_text: "December 2022"
 ---
 ## Wie ben ik?
@@ -14,19 +14,19 @@ Dingen
 `2022 - 2022`
 **Leraar robotica**, *ksg De Breul*, Zeist\
 `2018 - 2019`
-**Begeleider en leraar game- en webdevelopment**, *Bomberbot*, Amsterdam, Hilversum, Utrecht\
+**Begeleider en leraar web- en gamedevelopment**, *Bomberbot*, Amsterdam, Hilversum, Utrecht\
 `2017 - 2018`
 **Stagair UX Design voor gamification**, *Liftov*, Utrecht
 
 ## Educatie
 `2021`
-**MEd Psychology of Education**, *The University of Manchester*\
+**MEd Psychology of Education**, *The University of Manchester*, Verenigd Koninkrijk\
 ++Dissertatie:++ Primary teachers’ challenges in teaching STEM: from curriculum to classroom\
 `2019`
 **BSc Communcation and Multimedia Design**, *Hogeschool van Amsterdam*\
-++Afstudeerproject:++ Digitale planningtool voor leraren ter ondersteuning van hoogbegaafde kinderen\
-- Bijvakonderwijs: Ontwerpen van leersituaties, *Universiteit Utrecht*\
-- Extra minor: Visual Communication met Deutsch Kurs (B1) en Spanisch für Anfänger (A1), *Hochschule der Medien*\
+++Afstudeerproject:++ Digitale planningtool voor leraren ter ondersteuning van hoogbegaafde kinderen
+- Bijvakonderwijs: Ontwerpen van leersituaties, *Universiteit Utrecht*
+- Extra minor: Visual Communication met Deutsch Kurs (B1) en Spanisch für Anfänger (A1), *Hochschule der Medien*, Duitsland
 - Minor: Jeugd en Media, *Hogeschool van Amsterdam*
 
 ## Skills
