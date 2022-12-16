@@ -12,11 +12,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 `2022 - nu`
 **IT docente**, *Code Café*, Utrecht\
 `2022 - 2022`
-**Leraar robotica**, *ksg De Breul*, Zeist\
+**Leraar robotica**, *ksg De Breul*, Zeist
 
 ## Educatie
 `2021`
-**MEd Psychology of Education**, *The University of Manchester*
+**MEd Psychology of Education**, *The University of Manchester*\
 Dissertatie: Primary teachers’ challenges in teaching STEM: from curriculum to classroom\
 `2019`
 **BSc Communcation and Multimedia Design**, *Hogeschool van Amsterdam*\
