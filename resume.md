@@ -10,19 +10,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 ## Ervaring
 `2022 - nu`
-**IT docente**, *Code Café*, Utrecht
+**IT docente**, *Code Café*, Utrecht\
 `2022 - 2022`
-**Leraar robotica**, *ksg De Breul*, Utrecht
+**Leraar robotica**, *ksg De Breul*, Zeist\
 
 ## Educatie
 `2021`
 **MEd Psychology of Education**, *The University of Manchester*
-Dissertatie: Primary teachers’ challenges in teaching STEM: from curriculum to classroom
+Dissertatie: Primary teachers’ challenges in teaching STEM: from curriculum to classroom\
 `2019`
-**BSc Communcation and Multimedia Design**, *Hogeschool van Amsterdam*
-Afstudeerproject: Digitale planningtool voor leraren ter ondersteuning van hoogbegaafde kinderen
-Bijvakonderwijs: Ontwerpen van leersituaties, *Universiteit Utrecht*
-Extra minor: Visual Communication met Deutsch Kurs (B1) en Spanisch für Anfänger (A1), *Hochschule der Medien*
+**BSc Communcation and Multimedia Design**, *Hogeschool van Amsterdam*\
+Afstudeerproject: Digitale planningtool voor leraren ter ondersteuning van hoogbegaafde kinderen\
+Bijvakonderwijs: Ontwerpen van leersituaties, *Universiteit Utrecht*\
+Extra minor: Visual Communication met Deutsch Kurs (B1) en Spanisch für Anfänger (A1), *Hochschule der Medien*\
 Minor: Jeugd en Media
 
 ## Skills
