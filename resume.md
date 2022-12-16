@@ -1,8 +1,8 @@
 ---
-title: Your name here
-footer_text: "Last updated: June 2021"
+title: Denise Mocking
+footer_text: "December 2022"
 ---
-## About Me
+## Wie ben ik?
 
 <img class="profile-picture" src="profile.jpg">
 
@@ -23,20 +23,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 | Technical          | Soft                 |
 | ------------------ | -------------------- |
-| Git                | Cool                 |
-| Github             |                      |
-
+| HTML, CSS          | Samenwerken          |
+| Python             | Visualiseren
+| Javascript         | Verbanden leggen     |
+| Arduino, micro:bit, mBot, Makey Makey, Scratch | overzicht creëren |
+| Adobe Illustrator, Lightroom, InDesign, Premiere Pro, After Effects, Photoshop, Audition | Sociaal
 
 ## Certification
 
 `2021`
 Working from home 101
 
-## Languages
-### Native
-- Dutch
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+## Talen
+### Moedertaal/ gevorderd
+- Nederlands
+- Engels
+### Beginner
+- Duits (B1)
+- Spaans (A2)
