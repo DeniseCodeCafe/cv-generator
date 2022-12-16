@@ -8,16 +8,22 @@ footer_text: "December 2022"
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-## Occupation
-`2021 - Now`
-**Junior programmer**, *Code CafŽ*, Utrecht
-- *Git expert*
-- *Has a digital CV*
+## Ervaring
+`2022 - nu`
+**IT docente**, *Code Café*, Utrecht
+`2022 - 2022`
+**Leraar robotica**, *ksg De Breul*, Utrecht
 
-## Education
-
-`2018 - 2019`
-**Making robots to rule the world**, *A galaxy far, far away*
+## Educatie
+`2021`
+**MEd Psychology of Education**, *The University of Manchester*
+Dissertatie: Primary teachers’ challenges in teaching STEM: from curriculum to classroom
+`2019`
+**BSc Communcation and Multimedia Design**, *Hogeschool van Amsterdam*
+Afstudeerproject: Digitale planningtool voor leraren ter ondersteuning van hoogbegaafde kinderen
+Bijvakonderwijs: Ontwerpen van leersituaties, *Universiteit Utrecht*
+Extra minor: Visual Communication met Deutsch Kurs (B1) en Spanisch für Anfänger (A1), *Hochschule der Medien*
+Minor: Jeugd en Media
 
 ## Skills
 
@@ -25,8 +31,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 | ------------------ | -------------------- |
 | HTML, CSS          | Samenwerken          |
 | Python             | Visualiseren
-| Javascript         | Verbanden leggen     |
-| Arduino, micro:bit, mBot, Makey Makey, Scratch | overzicht creëren |
+| Arduino, micro:bit, mBot, Makey Makey, Scratch | Verbanden leggen |
+| JavaScript         | Overzicht creëren |
 | Adobe Illustrator, Lightroom, InDesign, Premiere Pro, After Effects, Photoshop, Audition | Sociaal
 
 ## Certification
