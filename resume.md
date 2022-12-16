@@ -13,6 +13,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 **IT docente**, *Code Café*, Utrecht\
 `2022 - 2022`
 **Leraar robotica**, *ksg De Breul*, Zeist
+`2018 - 2019`
+**Begeleider en leraar game- en webdevelopment** (kinderen), *Bomberbot*, Amsterdam, Hilversum, Utrecht
+`2017 - 2018`
+**Stagair UX Designer voor gamification**, *Liftov*, Utrecht
 
 ## Educatie
 `2021`
