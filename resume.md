@@ -6,7 +6,7 @@ footer_text: "December 2022"
 
 <img class="profile-picture" src="profile.jpg">
 
-Tijdens en naast mijn studies heb ik veel creatieve, educatieve en technische kennis opgedaan en ontwikkeld. Deze kennis zet ik graag in om anderen op een leuke manier STEM te laten ontdekken.
+Tijdens en naast mijn studies heb ik veel creatieve, educatieve en technische kennis opgedaan en ontwikkeld. Deze kennis zet ik graag in om anderen op een leuke manier STEM te helpen ontdekken.
 
 ## Ervaring
 `2022 - nu`
