@@ -6,7 +6,7 @@ footer_text: "December 2022"
 
 <img class="profile-picture" src="profile.jpg">
 
-Dingen
+Ik help graag anderen met leren en ontdekken. Tijdens en naast mijn studies heb ik veel creatieve, educatieve en technische kennis opgedaan en ontwikkeld. Deze kennis wil ik inzetten om anderen op een leuke manier STEM te laten ontdekken.
 
 ## Ervaring
 `2022 - nu`
