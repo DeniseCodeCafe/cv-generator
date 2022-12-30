@@ -12,11 +12,9 @@ Tijdens en naast mijn studies heb ik veel creatieve, educatieve en technische ke
 `2022 - nu`
 **IT docente**, *Code Café*, Utrecht\
 `2022 - 2022`
-**Leraar robotica**, *ksg De Breul*, Zeist\
+**Lerares robotica**, *ksg De Breul*, Zeist\
 `2018 - 2019`
-**Begeleider en leraar web- en gamedevelopment**, *Bomberbot*, Amsterdam, Hilversum, Utrecht\
-`2017 - 2018`
-**Stagair UX Design voor gamification**, *Liftov*, Utrecht
+**Lerares web- en gamedevelopment**, *Bomberbot*, Amsterdam, Hilversum, Utrecht\
 
 ## Educatie
 `2021`
@@ -25,11 +23,11 @@ Tijdens en naast mijn studies heb ik veel creatieve, educatieve en technische ke
 `2019`
 **BSc Communcation and Multimedia Design**, *Hogeschool van Amsterdam*\
 <ins>Afstudeerproject:</ins> Digitale planningtool voor leraren ter ondersteuning van hoogbegaafde kinderen
-- Bijvakonderwijs: Ontwerpen van leersituaties, *Universiteit Utrecht*
-- Extra minor: Visual Communication met Deutsch Kurs (B1) en Spanisch für Anfänger (A1), *Hochschule der Medien*, Duitsland
+- Bijvakonderwijs: Ontwerpen van leersituaties, *Universiteit Utrecht*\
+- Extra minor: Visual Communication met Deutsch Kurs (B1) en Spanisch für Anfänger (A1), *Hochschule der Medien*, Duitsland\
 - Minor: Jeugd en Media, *Hogeschool van Amsterdam*
 
-## Skills
+## Vaardigheden
 
 | Technical          | Soft                 |
 | ------------------ | -------------------- |
