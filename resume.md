@@ -2,7 +2,7 @@
 title: "Denise Mocking"
 footer_text: "December 2022"
 ---
-## Wie ben ik?
+## Over mij
 
 <img class="profile-picture" src="profile.jpg">
 
