@@ -26,9 +26,12 @@ Tijdens en naast mijn studies heb ik veel creatieve, educatieve en technische ke
 **BSc Communcation and Multimedia Design**, *Hogeschool van Amsterdam*\
 \
 <ins>Afstudeerproject:</ins> Digitale planningtool voor leraren ter ondersteuning van hoogbegaafde kinderen\
-- Bijvakonderwijs: Ontwerpen van leersituaties, *Universiteit Utrecht*\
-- Extra minor: Visual Communication met Deutsch Kurs (B1) en Spanisch für Anfänger (A1), *Hochschule der Medien*, Duitsland\
-- Minor: Jeugd en Media, *Hogeschool van Amsterdam*
+\
+- **Bijvakonderwijs**: Ontwerpen van leersituaties, *Universiteit Utrecht*\
+\
+- **Extra minor**: Visual Communication met Deutsch Kurs (B1) en Spanisch für Anfänger (A1), *Hochschule der Medien*, Duitsland\
+\
+- **Minor**: Jeugd en Media, *Hogeschool van Amsterdam*
 
 ## Vaardigheden
 
